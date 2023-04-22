@@ -1,0 +1,15 @@
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\bin\Debug\net6.0\OrderApp.exe
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\bin\Debug\net6.0\OrderApp.deps.json
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\bin\Debug\net6.0\OrderApp.runtimeconfig.json
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\bin\Debug\net6.0\OrderApp.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\bin\Debug\net6.0\OrderApp.pdb
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\obj\Debug\net6.0\OrderApp.csproj.AssemblyReference.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\obj\Debug\net6.0\OrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\obj\Debug\net6.0\OrderApp.AssemblyInfoInputs.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\obj\Debug\net6.0\OrderApp.AssemblyInfo.cs
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\obj\Debug\net6.0\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\obj\Debug\net6.0\OrderApp.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\obj\Debug\net6.0\refint\OrderApp.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\obj\Debug\net6.0\OrderApp.pdb
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\obj\Debug\net6.0\OrderApp.genruntimeconfig.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkTwo\HomeWorkTwo\obj\Debug\net6.0\ref\OrderApp.dll
