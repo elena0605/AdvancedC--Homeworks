@@ -1,0 +1,15 @@
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\obj\Debug\net6.0\HomeWorkThree.csproj.AssemblyReference.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\obj\Debug\net6.0\HomeWorkThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\obj\Debug\net6.0\HomeWorkThree.AssemblyInfoInputs.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\obj\Debug\net6.0\HomeWorkThree.AssemblyInfo.cs
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\obj\Debug\net6.0\HomeWorkThree.csproj.CoreCompileInputs.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\bin\Debug\net6.0\HomeWorkThree.exe
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\bin\Debug\net6.0\HomeWorkThree.deps.json
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\bin\Debug\net6.0\HomeWorkThree.runtimeconfig.json
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\bin\Debug\net6.0\HomeWorkThree.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\bin\Debug\net6.0\HomeWorkThree.pdb
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\obj\Debug\net6.0\HomeWorkThree.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\obj\Debug\net6.0\refint\HomeWorkThree.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\obj\Debug\net6.0\HomeWorkThree.pdb
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\obj\Debug\net6.0\HomeWorkThree.genruntimeconfig.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkThree\HomeWorkThree\obj\Debug\net6.0\ref\HomeWorkThree.dll
