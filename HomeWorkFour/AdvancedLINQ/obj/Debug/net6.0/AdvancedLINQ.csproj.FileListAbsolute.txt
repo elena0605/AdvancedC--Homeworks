@@ -1,0 +1,15 @@
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\bin\Debug\net6.0\AdvancedLINQ.deps.json
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\bin\Debug\net6.0\AdvancedLINQ.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\bin\Debug\net6.0\AdvancedLINQ.pdb
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\bin\Debug\net6.0\AdvancedLINQDomain.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\bin\Debug\net6.0\AdvancedLINQDomain.pdb
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\obj\Debug\net6.0\AdvancedLINQ.csproj.AssemblyReference.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\obj\Debug\net6.0\AdvancedLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\obj\Debug\net6.0\AdvancedLINQ.AssemblyInfoInputs.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\obj\Debug\net6.0\AdvancedLINQ.AssemblyInfo.cs
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\obj\Debug\net6.0\AdvancedLINQ.csproj.CoreCompileInputs.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\obj\Debug\net6.0\AdvancedLINQ.csproj.CopyComplete
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\obj\Debug\net6.0\AdvancedLINQ.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\obj\Debug\net6.0\refint\AdvancedLINQ.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\obj\Debug\net6.0\AdvancedLINQ.pdb
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFour\AdvancedLINQ\obj\Debug\net6.0\ref\AdvancedLINQ.dll
