@@ -1,0 +1,17 @@
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\obj\Debug\net6.0\HomeWorkFive.csproj.AssemblyReference.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\obj\Debug\net6.0\HomeWorkFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\obj\Debug\net6.0\HomeWorkFive.AssemblyInfoInputs.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\obj\Debug\net6.0\HomeWorkFive.AssemblyInfo.cs
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\obj\Debug\net6.0\HomeWorkFive.csproj.CoreCompileInputs.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\bin\Debug\net6.0\HomeWorkFive.exe
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\bin\Debug\net6.0\HomeWorkFive.deps.json
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\bin\Debug\net6.0\HomeWorkFive.runtimeconfig.json
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\bin\Debug\net6.0\HomeWorkFive.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\bin\Debug\net6.0\HomeWorkFive.pdb
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\obj\Debug\net6.0\HomeWorkFive.csproj.CopyComplete
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\obj\Debug\net6.0\HomeWorkFive.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\obj\Debug\net6.0\refint\HomeWorkFive.dll
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\obj\Debug\net6.0\HomeWorkFive.pdb
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\obj\Debug\net6.0\HomeWorkFive.genruntimeconfig.cache
+C:\Users\bojan\source\repos\AdvancedC-Sharp-Homeworks\HomeWorkFive\HomeWorkFive\obj\Debug\net6.0\ref\HomeWorkFive.dll
